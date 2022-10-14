@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	log.Println("logdesu")
+	log.Fatalln("otiru")
 	isuports.Run()
 }
